@@ -1,8 +1,11 @@
 # Loopback API 
 
 > [Loopback.io](https://loopback.io/)
+
 > [MongoDB](https://docs.mongodb.com/)
+
 > src -> [youtube](https://www.youtube.com/watch?v=UTxhKZuVaG8)
+
 > c9.io -> [link](https://ide.c9.io/isphins/loopback-101)
 
 ## Node Update
@@ -104,7 +107,6 @@ enter for exit create model
 ![](http://www.clipular.com/c/5083098411958272.png?k=_pacJ2yVzAQlBO4FcAP_f95pk48)
 
 
-
 ### Mongodb Check
 
 ```
@@ -176,9 +178,11 @@ test OK
 ```
 
 > go SET Access Token paste : nOChNHZzW0VZuYZA74Gzw7m261LEzAMOpG85m8BGo4rBdDalBFbIBCtN2FBRBx1o
+
 > SET Access Token click
 
 > go GET Meetups
+
 > OK
 
 > go POST /Users/logout
@@ -236,4 +240,14 @@ $ lb acl
 
 > OK
 
-> Get not login
+> GET meetups  
+
+> can get without login
+
+![](http://www.clipular.com/c/6025773134905344.png?k=ZkbGjXxIXKCj23UX25s6OmPjYM4)
+
+> AND When POST meetups must login 
+
+![](http://www.clipular.com/c/4956436336738304.png?k=cEqnx4PMIX2jnbQTv3rLysqFavA)
+
+![](http://www.clipular.com/c/4629087351209984.png?k=bcaH3VBQZRlljEq2X-TePNstHrA)
