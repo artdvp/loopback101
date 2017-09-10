@@ -1,5 +1,7 @@
 # Loopback API 
 
+> [Loopback.io](https://loopback.io/)
+> [MongoDB](https://docs.mongodb.com/)
 > src -> [youtube](https://www.youtube.com/watch?v=UTxhKZuVaG8)
 > c9.io -> [link](https://ide.c9.io/isphins/loopback-101)
 
