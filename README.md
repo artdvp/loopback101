@@ -17,9 +17,10 @@ $ nvm install 8.3.0
 ## Install Mongodb
 
 > src -> https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
-> src c9 -> https://community.c9.io/t/setting-up-mongodb/1717
-```
 
+> src c9 -> https://community.c9.io/t/setting-up-mongodb/1717
+
+```
 $ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
 
 -- I use Ubuntu 14.04
